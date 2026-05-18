@@ -52,6 +52,16 @@
             <div><dt>24</dt><dd>гостя в камерном зале</dd></div>
           </dl>
         </div>
+        <div class="hero__visual reveal" aria-hidden="true">
+          <img
+            class="hero__image"
+            src="assets/img/ChatGPT Image 18 мая 2026 г., 13 30 41 (2).png"
+            width="1536"
+            height="1024"
+            alt=""
+            decoding="async"
+          >
+        </div>
       </div>
     </section>
 
@@ -118,29 +128,6 @@
               </div>
             </div>
           </article>
-        </div>
-      </div>
-    </section>
-
-    <section class="section gallery" id="gallery" aria-labelledby="gallery-title">
-      <div class="container">
-        <div class="section__header reveal">
-          <p class="eyebrow">Атмосфера</p>
-          <h2 id="gallery-title">Большие вкусы, мягкий свет, глубокий вечер.</h2>
-        </div>
-        <div class="gallery__grid">
-          <figure class="gallery__item gallery__item--wide reveal" data-tilt-card>
-            <div class="gallery__art gallery__art--dish" role="img" aria-label="Авторское блюдо с тёмным соусом и золотым акцентом"></div>
-            <figcaption>Подачи с контрастом текстур</figcaption>
-          </figure>
-          <figure class="gallery__item reveal" data-tilt-card>
-            <div class="gallery__art gallery__art--interior" role="img" aria-label="Тёмный интерьер ресторана с мягким светом"></div>
-            <figcaption>Камерный зал на 24 гостя</figcaption>
-          </figure>
-          <figure class="gallery__item reveal" data-tilt-card>
-            <div class="gallery__art gallery__art--bar" role="img" aria-label="Бар Noir Table с медными бликами и бокалами"></div>
-            <figcaption>Бар и винное сопровождение</figcaption>
-          </figure>
         </div>
       </div>
     </section>
